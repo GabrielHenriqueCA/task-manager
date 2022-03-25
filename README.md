@@ -45,6 +45,12 @@ Tive a ideia de criar uma API sobre gerenciamento de tarefas na qual seria possi
 
   # Access project folder
   
+  # Go to the folder appsettings.Development.json
+  
+  # Go up defaultConnection
+  
+  #  And add the connection cads to your database
+  
   # Open the terminal
   
   # Write: dotnet run
