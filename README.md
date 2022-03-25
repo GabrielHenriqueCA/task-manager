@@ -23,8 +23,6 @@ Tive a ideia de criar uma API sobre gerenciamento de tarefas na qual seria possi
 </p>
 
 
-## Observations
-* **Nos diretorios Crud, Azure e Swagger existens mais Informações sobre o projeto!**
 
 
 
