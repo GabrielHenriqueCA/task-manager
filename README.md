@@ -1,13 +1,13 @@
 # TaskManager #
 ### About the Project 👨‍💻 
-**Projeto realizado com auxilo da [Devaria!](https://www.devaria.com.br/) ⭐**
+**Project carried out with [Devaria!](https://www.devaria.com.br/) ⭐**
 
-**Esse projeto teve como base construir uma API do zero abordando os Pilares de Desing Patterns e da crição de um CRUD Completo.
-Tive a ideia de criar uma API sobre gerenciamento de tarefas na qual seria possivel cadastrar novos usuarios e adicionar tarefas para com prazos para serem concluidas.**
+**This project was based on building an API from scratch addressing the Pillars of Desing Patterns and the creation of a complete CRUD.
+I had the idea of creating an API on task management in which it would be possible to register new users and add tasks for deadlines to be completed.**
 
-**Nos diretorios Crud, Azure e Swagger existens mais Informações sobre o projeto!**
+**In crud, azure and swagger directors there are more project information!**
 
-**Objective: Construir API do 0 com Desing Patterns e CRUD.**
+**Objective: Build 0 API with Desing Patterns and CRUD.**
 
 ## Swagger
 <p align="center">
