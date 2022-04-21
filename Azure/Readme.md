@@ -1,20 +1,20 @@
 # ☁ Azure
-**Conectei minha  API com o serviços da Azure para testar se estava funcionando e  a baixo esta os Resultados e as Tabelas ☁️** 
+**I connected my API with Azure services to test whether it was working and below is the Results and Tables☁️** 
 
-## Tabelas Criadas
+## Created Tables
 <p align="center">
   <img alt="home" src=https://github.com/GabrielHenriqueCA/TaskManager/blob/master/Azure/result-azure2.png>
 </p>
 
 
 
-##  Tabela de Usuarios
+##  Users Table
 
 <p align="center">
   <img alt="home" src=https://github.com/GabrielHenriqueCA/TaskManager/blob/master/Azure/Result-Azure3.png>
 </p>
 
-## Tabela de Tarefas 
+## Task Table 
 
 <p align="center">
   <img alt="home" src=https://github.com/GabrielHenriqueCA/TaskManager/blob/master/Azure/result-azure5.png
